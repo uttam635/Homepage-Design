@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.heading {
+        font-family: "Roboto", serif;
+        font-weight: 500;
+        font-style: normal;
+}
+
+.div-col:hover {
+    border: 1px solid #6c757d;
+    padding: 18px;
+}
+
+.title {
+    font-family: "Roboto", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.div-col .title:hover  {
+    font-size: 25px !important;
+}
